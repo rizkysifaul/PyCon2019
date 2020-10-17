@@ -1,0 +1,9 @@
+pandas==1.0.3
+json5==0.9.4
+jsonschema==3.2.0
+geopy==2.0.0
+requests==2.22.0
+numpy==1.18.1
+folium==0.11.0
+streamlit==0.64.0
+streamlit-folium==0.0.1
